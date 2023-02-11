@@ -29,7 +29,7 @@ app.use('/token', tokenRoute)
 
 async function init() {
     try {
-        const connection = await mongoose.connect(process.env.REACT_APP_MONGO_URI, { dbName: "pet_adoption" });
+        const connection = await mongoose.connect(process.env.MONGODB_URI, { dbName: "pet_adoption" });
         if (connection.connections[0].host) {
             console.log('Connected to DB');
             app.listen(PORT, () => {
