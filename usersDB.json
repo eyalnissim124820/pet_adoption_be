@@ -1,0 +1,115 @@
+[
+    {
+        "id": "87ff7e17-c8e4-406d-af95-689d61a703ff",
+        "first_name": "Eyal",
+        "last_name": "Nissim",
+        "email": "eyal@gmail.com",
+        "phone_number": "0545545544",
+        "admin": "false"
+    },
+    {
+        "id": "574d4c0b-aa9b-4b5e-a966-e9b4a8bc6ab6",
+        "first_name": "Dani",
+        "last_name": "Mill",
+        "email": "dani@gmail.com",
+        "phone_number": "0533344556",
+        "admin": "false"
+    },
+    {
+        "id": "d364b32f-0605-4e65-ad44-fe91a73f854e",
+        "first_name": "Jo",
+        "last_name": "Rugunberg",
+        "email": "j_r33@gmail.com",
+        "phone_number": "0987645636",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36cd-49c2-b0f8-f12031a22f48",
+        "first_name": "Ron",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36cd-47c2-b0f8-f12031a22f48",
+        "first_name": "Yam",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36cd-49c2-b078-f12031a22f48",
+        "first_name": "J.J.",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b573-36cd-49c2-b0f8-f12031a22f48",
+        "first_name": "Woung",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36cd-79c2-b0f8-f12031a22f48",
+        "first_name": "Ben",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-37cd-49c2-b0f8-f12031a22f48",
+        "first_name": "May",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36c6-49c2-b0f8-f12031a22f48",
+        "first_name": "Chen",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36cd-49c2-b0f8-f16031a22f48",
+        "first_name": "Guy",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "1e18b543-36cd-49c2-b0f8-f18031a22f48",
+        "first_name": "Zak",
+        "last_name": "",
+        "email": "Bna@gmail.com",
+        "phone_number": "0994384372",
+        "admin": "false"
+    },
+    {
+        "id": "a103692d-c3e6-410c-a1c8-537379fe36fe",
+        "first_name": "Dan",
+        "last_name": "Mol",
+        "email": "dm@walla.com",
+        "password": "321123",
+        "password_confirm": "321123",
+        "phone_number": "0532254899"
+    },
+    {
+        "id": "c6f4c054-a7c8-4bb7-8699-3feea91667f4",
+        "first_name": "Yuval",
+        "last_name": "mung",
+        "email": "yoil@gmail.com",
+        "password": "111",
+        "phone_number": "0532265988"
+    }
+]
