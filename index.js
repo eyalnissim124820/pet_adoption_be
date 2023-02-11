@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 
 const app = express();
 app.use(express.json())
-app.use(cors())
+app.use(cors({ origin: ["https://pet-adoption-fe-theta.vercel.app", "http://localhost:8080"], credentials: true }))
 
 const petRoutes = require('./routes/petRoutes');
 app.use('/pets', petRoutes);
